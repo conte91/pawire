@@ -1,0 +1,7 @@
+This software is beerware: if we meet, you owe me a beer.
+
+This package contains a binary distribution of portaudio 19.
+
+Portaudio is released under the MIT license.
+Source code for the Portaudio project is available at http://portaudio.com/.
+
